@@ -1,2 +1,2 @@
-# Ola mundo
- primeiro repositorio do curso
+# Olá, mundo
+ criei meu primeiro repositório.
