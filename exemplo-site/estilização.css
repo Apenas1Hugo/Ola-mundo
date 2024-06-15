@@ -1,1 +1,32 @@
-
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #eaeaea;
+    justify-content:center;
+    align-items:center;
+}
+.container {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 800px;
+    width: 90%;
+    text-align: left;
+}
+h1 {
+    font-family: 'Georgia', serif;
+    color: #333;
+    text-align: center;
+    margin-bottom: 10px;
+}
+p {
+    font-family: 'Verdana', sans-serif;
+    color: #666;
+    margin-bottom: 10px;
+}
+hr {
+    border: 0;
+    height: 1px;
+    background: #ddd;
+    margin: 20px 0;
+}
